@@ -10,5 +10,5 @@ Currently, two official plugins are available:
 ///////////////////////////////////////////////////////
 
 To run this proyect, you need two terminals:
-1-For the fake server (json-server): npm run server
-2-For the app (well... everything): npm run dev
+1- For the fake server (json-server): npm run server
+2- For the app (well... everything): npm run dev
