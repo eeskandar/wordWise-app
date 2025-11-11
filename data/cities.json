@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "Camarasa",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-10-27T20:51:14.853Z",
+      "notes": "test",
+      "position": {
+        "lat": 41.85426871126991,
+        "lng": 0.81298828125
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Cimitarra",
+      "country": "Colombia",
+      "emoji": "🇨🇴",
+      "date": "2025-10-27T21:04:22.682Z",
+      "notes": "ytes",
+      "position": {
+        "lat": 6.405995466136597,
+        "lng": -74.06982421875001
+      },
+      "id": 5
+    }
+  ]
+}
