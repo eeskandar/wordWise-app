@@ -1,28 +1,40 @@
 {
   "cities": [
     {
-      "cityName": "Camarasa",
+      "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2025-10-27T20:51:14.853Z",
-      "notes": "test",
+      "date": "2025-11-07T01:40:37.000Z",
+      "notes": "jaja",
       "position": {
-        "lat": 41.85426871126991,
-        "lng": 0.81298828125
+        "lat": 40.36485087997732,
+        "lng": -3.6474609375000004
       },
-      "id": 1
+      "id": 6
     },
     {
-      "cityName": "Cimitarra",
-      "country": "Colombia",
-      "emoji": "🇨🇴",
-      "date": "2025-10-27T21:04:22.682Z",
-      "notes": "ytes",
+      "cityName": "Helsinki",
+      "country": "Finland",
+      "emoji": "🇫🇮",
+      "date": "2025-11-13T20:40:44.370Z",
+      "notes": "uwu",
       "position": {
-        "lat": 6.405995466136597,
-        "lng": -74.06982421875001
+        "lat": 59.976584187065505,
+        "lng": 25.136718750000004
       },
-      "id": 5
+      "id": 7
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2025-11-13T20:41:03.510Z",
+      "notes": "",
+      "position": {
+        "lat": 52.40502885658628,
+        "lng": 13.535156250000002
+      },
+      "id": 8
     }
   ]
 }
